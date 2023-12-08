@@ -96,4 +96,5 @@ $lang['No photo selected, no action possible.'] = 'No photo selected, no action 
 $lang['Drag files here.'] = 'Drag files here.';
 $lang[' (owns this album)'] = ' (owns this album, for sure)';
 $lang[' (already owns album "%s")'] = ' (already owns album "%s")';
+$lang['new string'] = 'new string';
 ?>
