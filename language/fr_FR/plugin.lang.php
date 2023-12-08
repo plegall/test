@@ -98,4 +98,5 @@ $lang['No photo selected, no action possible.'] = 'Aucune photo sélectionnée, 
 $lang['Drag files here.'] = 'Déposez vos fichiers ici.';
 $lang[' (owns this album)'] = ' (possède cet album, pour de vrai)';
 $lang[' (already owns album "%s")'] = ' (possède déjà l\'album "%s")';
+$lang['new string'] = 'nouvelle chaîne';
 ?>
