@@ -88,7 +88,7 @@ $lang['a user can own only one album'] = 'un utilisateur ne peut posséder qu\'u
 $lang['Edit photos'] = 'Éditer les photos';
 $lang['Edit Photos'] = 'Éditer les photos';
 $lang['Edit your photos'] = 'Editez vos photos';
-$lang['Photos posted by %s'] = 'Photos ajoutées par %s';
+$lang['Photos posted by %s'] = 'Photos ajjoutées par %s';
 $lang['Photos posted by %s in album %s'] = 'Photos ajoutées par %s dans l\'album %s';
 $lang['Select at least one tag'] = 'Sélectionnez au moins un tag';
 $lang['Select at least one photo'] = 'Sélectionnez au moins une photo';
@@ -99,4 +99,5 @@ $lang['Drag files here.'] = 'Déposez vos fichiers ici.';
 $lang[' (owns this album)'] = ' (possède cet album, pour de vrai)';
 $lang[' (already owns album "%s")'] = ' (possède déjà l\'album "%s")';
 $lang['new string'] = 'nouvelle chaîne';
+$lang['another string'] = 'une autre chaîne';
 ?>
