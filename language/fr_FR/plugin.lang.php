@@ -21,7 +21,7 @@
 // | USA.                                                                  |
 // +-----------------------------------------------------------------------+
 
-$lang['Add a permission'] = 'Ajouter une permission';
+$lang['Add a permission'] = 'Ajouter une permission pour ajouter';
 $lang['Who?'] = 'Qui ?';
 $lang['any visitor'] = 'n\'importe quel visiteur';
 $lang['any registered user'] = 'n\'importe quel utilisateur enregistré';
@@ -39,7 +39,7 @@ $lang['Permission removed'] = 'Permission supprimée';
 $lang['%s (the user)'] = '%s (l\'utilisateur)';
 $lang['%s (the group)'] = '%s (le groupe)';
 $lang['low trust'] = 'confiance faible';
-$lang['uploaded photos must be validated by an administrator'] = 'les photos ajoutées doivent être validées par un administrateur';
+$lang['uploaded photos must be validated by an administrator'] = 'les photos ajoutées doivent être validées, par un administrateur';
 $lang['high trust'] = 'confiance élevée';
 $lang['uploaded photos are directly displayed in the gallery'] = 'les photos ajoutées sont directement visibles dans la galerie';
 $lang['%d photos validated'] = '%d photos validées';
